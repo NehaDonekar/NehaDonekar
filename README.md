@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Neha Donekar</h1>
-<h3 align="center">Undergraduate Computer Engineering Student. Strong foundation in Machine Learning, Python, Django Web Framework, Database Modeling and DevOps</h3>
+<h3 align="center">graduated Computer Engineering Student. Strong foundation in Machine Learning, Python, Django Web Framework, Database Modeling and DevOps</h3>
 
 - 📫 How to reach me **nehadonekar@gmail.com**
 
